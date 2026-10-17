@@ -1,0 +1,3 @@
+# MedLearn AI - Educational Platform
+User-agent: *
+Allow: /
